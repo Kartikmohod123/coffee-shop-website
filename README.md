@@ -6,7 +6,7 @@ A modern, responsive website for a coffee shop to showcase its menu, services, a
 ### This design belongs to [Mr.kartik mohod.](https://www.youtube.com/@MrWebDesignerAnas)
 
 ![preview img](/preview.png)
-git clone https://github.com//coffee-website.git
+git clone https://github.com/Kartikmohod123/coffee-shop-website.git
 cd coffee-website.
 
 LIVE DEMO:-https://cup-comfort-coffee-shop.netlify.app/https://cup-comfort-coffee-shop.netlify.app/
